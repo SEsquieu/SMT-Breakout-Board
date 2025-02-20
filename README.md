@@ -1,0 +1,1 @@
+Quick and dirty PCB made in KiCad to break out SMT device pins to a protoboard mountable through hole pitch. This was primarily to test the quality of a PCB manufacturer in China, but the board itself proved useful for a lot of my early stage prototyping need and has gotten significant milage.
